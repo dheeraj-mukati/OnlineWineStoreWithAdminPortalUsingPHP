@@ -1,0 +1,166 @@
+.table {
+    width: 68%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    position: relative;
+    top: -715px;
+    right: -24px;
+}
+
+.menu2 {
+	background-color: #232f3e;
+	height: 150px;
+	border: 2px ridge silver;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #000 top: 0;
+	left: 0;
+}
+
+.left {
+	    position: relative;
+    right: 1185px;
+    width: 372px;
+    border-right: 1px ridge silver;
+    height: 1000px;
+    overflow-y: scroll;
+}
+
+.right {
+	position: relative;
+	left: 478px;
+	top: -177px;
+}
+
+hr {
+	width: 330px;
+	border-top: 2px solid #eee;
+}
+
+label {
+	font-weight: bold;
+	font-size: 18px;
+	font-family: arial, sans-serif;
+}
+.fontColor {
+	
+	font-size: 18px;
+	font-family: arial, sans-serif;
+	color: white;
+}
+.wrapper {
+	position: relative;
+	width: 95%;
+	top: -103px;
+	left: 400px;
+}
+
+.textF {
+	float: left;
+	box-sizing: border-box;
+	padding-right: 80px;
+	width: 40%;
+	height: 40px;
+	font-size: 18px;
+	font-family: arial, sans-serif;
+}
+
+.selectSearchType {
+	float: left;
+	height: 40px;
+	width: 10%;
+	font-size: 18px;
+	border-radius: 5px 0px 0px 5px;
+	font-family: arial, sans-serif;
+}
+
+.btn {
+	position: absolute;
+	width: 80px;
+	height: 40px;
+	font-size: 18px;
+	font-family: arial, sans-serif;
+	border-radius: -1px;
+}
+
+.sub_menu {
+	left: 580px;
+	top: -49px;
+	position: relative;
+	font-size: 18px;
+	font-family: arial, sans-serif;
+	color: white;
+}
+
+.signOutLink {
+	font-size: 18px;
+	font-family: arial, sans-serif;
+	color: white;
+}
+
+.logo2 {
+	position: relative;
+	height: 146px;
+}
+
+th {
+	background-color: #232f3e;
+	color: white;
+}
+.pager1 {
+    position: absolute;
+    top: -801px;
+    left: 1078px;
+}
+.resultCount{
+	position: absolute;
+    top: -784px;
+    left: 23px;
+    font-size: 18px;
+    font-family: arial, sans-serif;
+    background-color: #eee;
+    width: 1299px;
+    height: 37px;
+}
+::-webkit-scrollbar {
+	width: 8px;
+}
+::-webkit-scrollbar-button {
+	width: 8px;
+	height:5px;
+}
+::-webkit-scrollbar-track {
+	background:#eee;
+	border: thin solid lightgray;
+	box-shadow: 0px 0px 3px #dfdfdf inset;
+	border-radius:10px;
+}
+::-webkit-scrollbar-thumb {
+	background:#999;
+	border: thin solid gray;
+	border-radius:10px;
+}
+::-webkit-scrollbar-thumb:hover {
+	background:#7d7d7d;
+}			
+body{
+    overflow-x: hidden;
+}	
+.shoppingCart{
+	height: 31px;
+    width: 35px;
+}
+#lblCartCount {
+    font-size: 17px;
+    background: #f08804;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    border-radius: 0px 6px 6px 0px;
+}

@@ -1,0 +1,113 @@
+@CHARSET "ISO-8859-1";
+.sub_menu {
+	left: 616px;
+    top: -37px;
+	position: relative;
+	font-size: 18px;
+	font-family: arial, sans-serif;
+	color: white;
+}
+.menu2 {
+	background-color: #232f3e;
+	height: 150px;
+	border: 2px ridge silver;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #000 top: 0;
+	left: 0;
+}
+
+
+.signOutLink {
+	font-size: 18px;
+	font-family: arial, sans-serif;
+	color: white;
+}
+
+.logo2 {
+	position: relative;
+	height: 146px;
+}
+
+th {
+	background-color: #232f3e;
+	color: white;
+}
+.resultCount{
+	position: absolute;
+    top: -955px;
+    left: 23px;
+    font-size: 18px;
+    font-family: arial, sans-serif;
+    background-color: #eee;
+    width: 1299px;
+    height: 37px;
+}
+.shoppingCart{
+	height: 31px;
+    width: 35px;
+}
+#lblCartCount {
+    font-size: 17px;
+    background: #f08804;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+}
+.wrapper {
+	position: relative;
+	width: 95%;
+	top: -103px;
+	left: 400px;
+}
+.textF {
+	float: left;
+	box-sizing: border-box;
+	padding-right: 80px;
+	width: 40%;
+	height: 40px;
+	font-size: 18px;
+	font-family: arial, sans-serif;
+}
+
+.selectSearchType {
+	float: left;
+	height: 40px;
+	width: 10%;
+	font-size: 18px;
+	border-radius: 5px 0px 0px 5px;
+	font-family: arial, sans-serif;
+}
+.btn {
+	position: absolute;
+	width: 80px;
+	height: 40px;
+	font-size: 18px;
+	font-family: arial, sans-serif;
+	border-radius: -1px;
+}
+.boldLabel{
+    font-size: 18px;
+    font-family: arial, sans-serif;
+}
+hr{
+	border-top: 2px solid #eee
+}
+.totalAmountDiv{
+	position: relative;
+    left: 623px;
+}
+.removeBorder {
+    border-top: none !important;
+}
+.billInfomrmationDiv {
+    position: relative;
+    left: 252px;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    border-radius: 0px 6px 6px 0px;
+}
